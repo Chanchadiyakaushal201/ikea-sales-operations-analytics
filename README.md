@@ -390,7 +390,7 @@ IKEA-Sales-Operations-Analytics/
 
 # 🖼️ Dashboard & Analysis Preview
 
-<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Assets/banner.png" alt="Image Description" width="600">
+<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Assets/banner.png" alt="Image Description" width="900">
 
 ---
 
