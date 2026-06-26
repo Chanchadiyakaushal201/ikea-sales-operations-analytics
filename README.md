@@ -1,6 +1,6 @@
 # 🛋️ IKEA India Sales & Operations Analytics Dashboard
 
-> An end-to-end Data Analytics portfolio project demonstrating the complete analytics workflow—from raw data cleaning to interactive business intelligence dashboards using Excel, Python, SQL, and Power BI.
+An end-to-end Data Analytics portfolio project demonstrating the complete analytics workflow—from raw data cleaning to interactive business intelligence dashboards using Excel, Python, SQL, and Power BI.
 
 ---
 
@@ -336,65 +336,65 @@ IKEA-Sales-Operations-Analytics/
 
 # 🖼️ Image Preview
 
-<img src="https://github.com/Chanchadiyakaushal201/minimalist-skincare-sql-analytics/blob/25b819052e87d14b3f01e4cea9142dbf65c99883/Images/Database_Schema.png" alt="Image Description" width="600">
+<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Assets/banner.png" alt="Image Description" width="600">
 
 ---
 
 ## Project Pipeline
 
-<img src="https://github.com/Chanchadiyakaushal201/minimalist-skincare-sql-analytics/blob/25b819052e87d14b3f01e4cea9142dbf65c99883/Images/Database_Schema.png" alt="Image Description" width="600">
+<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Assets/pipeline.png" alt="Image Description" width="600">
 
 ---
 
 ## Executive Overview
 
-<img src="https://github.com/Chanchadiyakaushal201/minimalist-skincare-sql-analytics/blob/25b819052e87d14b3f01e4cea9142dbf65c99883/Images/Database_Schema.png" alt="Image Description" width="600">
+<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Images/overview-dashboard.png" alt="Image Description" width="600">
 
 ---
 
 ## Operations & Risk
 
-<img src="https://github.com/Chanchadiyakaushal201/minimalist-skincare-sql-analytics/blob/25b819052e87d14b3f01e4cea9142dbf65c99883/Images/Database_Schema.png" alt="Image Description" width="600">
+<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Images/operations-dashboard.png" alt="Image Description" width="600">
 
 ---
 
 ## Customer Analytics
 
-<img src="https://github.com/Chanchadiyakaushal201/minimalist-skincare-sql-analytics/blob/25b819052e87d14b3f01e4cea9142dbf65c99883/Images/Database_Schema.png" alt="Image Description" width="600">
+<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Images/customer-dashboard.png" alt="Image Description" width="600">
 
 ---
 
 ## Power BI Data Model
 
-<img src="https://github.com/Chanchadiyakaushal201/minimalist-skincare-sql-analytics/blob/25b819052e87d14b3f01e4cea9142dbf65c99883/Images/Database_Schema.png" alt="Image Description" width="600">
+<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Images/powerbi-data-model.png" alt="Image Description" width="600">
 
 ---
 
 ## Python EDA – Revenue by Product Category
 
-<img src="https://github.com/Chanchadiyakaushal201/minimalist-skincare-sql-analytics/blob/25b819052e87d14b3f01e4cea9142dbf65c99883/Images/Database_Schema.png" alt="Image Description" width="600">
+<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Images/python-revenue-by-category.png" alt="Image Description" width="600">
 
 ---
 
 ## Python EDA – Return Analysis Heatmap
 
-<img src="https://github.com/Chanchadiyakaushal201/minimalist-skincare-sql-analytics/blob/25b819052e87d14b3f01e4cea9142dbf65c99883/Images/Database_Schema.png" alt="Image Description" width="600">
+<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Images/python-return-analysis-heatmap.png" alt="Image Description" width="600">
 
 ---
 
 ## SQL – Customer RFM Segmentation (query + output)
 
-<img src="https://github.com/Chanchadiyakaushal201/minimalist-skincare-sql-analytics/blob/25b819052e87d14b3f01e4cea9142dbf65c99883/Images/Database_Schema.png" alt="Image Description" width="600">
+<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Images/customer-rfm-segmentation-query.png" alt="Image Description" width="600">
 
-<img src="https://github.com/Chanchadiyakaushal201/minimalist-skincare-sql-analytics/blob/25b819052e87d14b3f01e4cea9142dbf65c99883/Images/Database_Schema.png" alt="Image Description" width="600">
+<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Images/customer-rfm-segmentation-output.png" alt="Image Description" width="600">
 
 ---
 
 ## SQL – Monthly Sales Growth Analysis (query + output)
 
-<img src="https://github.com/Chanchadiyakaushal201/minimalist-skincare-sql-analytics/blob/25b819052e87d14b3f01e4cea9142dbf65c99883/Images/Database_Schema.png" alt="Image Description" width="600">
+<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Images/monthly-sales-growth-query.png" width="600">
 
-<img src="https://github.com/Chanchadiyakaushal201/minimalist-skincare-sql-analytics/blob/25b819052e87d14b3f01e4cea9142dbf65c99883/Images/Database_Schema.png" alt="Image Description" width="600">
+<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Images/monthly-sales-growth-output.png" alt="Image Description" width="600">
 
 ---
 
@@ -430,9 +430,17 @@ IKEA-Sales-Operations-Analytics/
 
 # 👨‍💻 Author
 
-**Kaushal Vyas**
+**Kaushal**
 
 Aspiring Data Analyst passionate about transforming raw data into actionable business insights through analytics, visualization, and storytelling.
+
+---
+
+# 🔗 Connect with Me
+
+Linkedin :
+
+https://www.linkedin.com/in/kaushal-chanchadiya-57199b2a8/
 
 ---
 
