@@ -473,12 +473,18 @@ IKEA-Sales-Operations-Analytics/
 
 # 🚀 Future Enhancements
 
-* Forecasting Sales using Time Series
+* Sales Forecasting using Prophet
 * Customer Lifetime Value (CLV)
 * Product Recommendation Analysis
 * Inventory Demand Forecasting
 * What-if Parameter Analysis
 * AI-powered Insights
+
+---
+
+# 📄 License
+
+This project is licensed under the **MIT License**, which permits reuse, modification, and distribution with proper attribution. See the [LICENSE](LICENSE) file for complete details.
 
 ---
 
