@@ -1,2 +1,441 @@
-# ikea-sales-operations-analytics
-End-to-End Sales &amp; Operations Analytics Project using Excel, Python, PostgreSQL and Power BI.
+# 🛋️ IKEA India Sales & Operations Analytics Dashboard
+
+> An end-to-end Data Analytics portfolio project demonstrating the complete analytics workflow—from raw data cleaning to interactive business intelligence dashboards using Excel, Python, SQL, and Power BI.
+
+---
+
+# 📌 Project Overview
+
+The **IKEA India Sales & Operations Analytics Dashboard** is a complete business intelligence solution designed to analyze sales performance, operational efficiency, supply chain risks, and customer behavior.
+
+This project simulates a real-world retail analytics scenario where data from multiple business functions is transformed into meaningful insights for decision-makers.
+
+The project follows an end-to-end analytics pipeline:
+
+**Raw Data → Excel → Python → PostgreSQL → Power BI**
+
+The dashboard enables stakeholders to monitor key performance indicators, identify operational risks, evaluate customer segments, and support strategic business decisions.
+
+---
+
+# 🎯 Business Objective
+
+The primary objective of this project is to help business managers answer questions such as:
+
+* How is overall revenue and profit performing?
+* Which products and categories generate the highest revenue?
+* Which operational factors impact returns?
+* Which inventory categories are at high risk?
+* Which customers are the most valuable?
+* How are different customer segments performing?
+* Which regions contribute the most revenue?
+* What actions can improve operational efficiency and customer retention?
+
+---
+
+# 🛠️ Tools & Technologies
+
+| Tool                               | Purpose                                    |
+| ---------------------------------- | ------------------------------------------ |
+| Microsoft Excel                    | Data Understanding & Initial Validation    |
+| Python (Pandas, NumPy, Matplotlib) | Data Cleaning & Exploratory Data Analysis  |
+| PostgreSQL                         | Data Storage & Business SQL Queries        |
+| Power BI Desktop                   | Data Modeling, DAX & Dashboard Development |
+| DAX                                | KPI & Business Calculations                |
+| Git & GitHub                       | Version Control & Portfolio                |
+
+---
+
+# 📂 Project Pipeline
+
+## 1️⃣ Data Collection
+
+Five datasets were used:
+
+* Customers
+* Products
+* Orders
+* Deliveries
+* Returns
+
+---
+
+## 2️⃣ Excel
+
+Performed:
+
+* Data Understanding
+* Data Dictionary
+* Data Quality Assessment
+* Basic KPI Validation
+* Initial Business Review
+
+---
+
+## 3️⃣ Python
+
+Performed:
+
+### Data Cleaning
+
+* Removed duplicates
+* Handled missing values
+* Standardized text values
+* Corrected city/state inconsistencies
+* Converted data types
+* Outlier detection
+* Business rule validation
+
+### Exploratory Data Analysis
+
+Performed analysis including:
+
+* Revenue by Category
+* Revenue by City
+* Revenue by Membership Type
+* Revenue by Age Group
+* Payment Method Analysis
+* Top Products
+* Supplier Performance
+* Inventory Risk
+* Delivery vs Returns
+* Return Factors
+
+---
+
+## 4️⃣ PostgreSQL
+
+Designed relational database consisting of:
+
+* Customers
+* Products
+* Orders
+* Deliveries
+* Returns
+
+Performed:
+
+* Database Creation
+* Data Import
+* Relationship Validation
+* Data Quality Validation
+
+Business SQL Queries Included:
+
+* Revenue KPIs
+* Revenue by Category
+* Revenue by City
+* Revenue by Membership
+* Revenue by Age Group
+* Top Products
+* Top Customers
+* Average Order Value
+* Return Rate
+* Return Reasons
+* Monthly Revenue Trend
+* Revenue Growth
+* Running Revenue
+* Customer Segmentation
+* RFM Preparation
+
+---
+
+## 5️⃣ Power BI
+
+Created interactive dashboard with professional IKEA-inspired UI.
+
+### Data Model
+
+* Star Schema
+* Calendar Table
+* Optimized Relationships
+* Organized Measure Table
+
+---
+
+## DAX Measures
+
+Developed measures including:
+
+### Financial
+
+* Total Revenue
+* Total Profit
+* Total Cost
+* Profit Margin
+* AOV
+
+### Growth Metrics
+
+* Revenue Growth %
+* Profit Growth %
+* Orders Growth %
+* Customer Growth %
+* Repeat Customer Growth %
+* Return Growth %
+
+### Operational
+
+* Return Rate
+* Refund Amount
+* Average Delivery Days
+* Inventory Risk Products
+
+### Customer
+
+* Repeat Customers
+* Revenue per Customer
+* Champion Customers
+* Repeat Purchase Rate
+
+### RFM Analysis
+
+* Recency
+* Frequency
+* Monetary
+* RFM Score
+* Customer Segmentation
+
+---
+
+# 📊 Dashboard Pages
+
+---
+
+## 📈 Page 1 — Executive Overview
+
+Focus:
+
+Business Performance
+
+KPIs
+
+* Total Revenue
+* Total Profit
+* Profit Margin
+* Total Orders
+* Average Order Value
+
+Visuals
+
+* Revenue & Profit Trend
+* Top Products
+* Revenue by Category
+* Top Cities
+* Revenue by Payment Method
+
+---
+
+## 🚚 Page 2 — Operations & Risk
+
+Focus:
+
+Operational Performance & Supply Chain
+
+KPIs
+
+* Total Returns
+* Return Rate
+* Refund Amount
+* Average Delivery Days
+* Inventory Risk Products
+
+Visuals
+
+* Return Reason Breakdown
+* Return Rate by Category
+* Inventory Risk Analysis
+* Refund Trend
+* Carrier Performance Summary
+
+---
+
+## 👥 Page 3 — Customer Analytics
+
+Focus:
+
+Customer Behavior & Segmentation
+
+KPIs
+
+* Total Customers
+* Repeat Customers
+* Repeat Purchase Rate
+* Revenue per Customer
+* Champion Customers
+
+Visuals
+
+* RFM Segmentation
+* Revenue by State & City
+* Revenue by Gender
+* Revenue by Membership
+* Revenue by Age Group
+* Top Customers
+
+---
+
+# 📈 Key Business Insights
+
+* Revenue is concentrated within a few high-performing product categories.
+* A small number of products contribute significantly to total sales.
+* Return reasons are primarily driven by damaged and quality-related issues.
+* Certain inventory categories require immediate stock optimization.
+* Champion and Loyal customers contribute a substantial portion of total revenue.
+* Business membership customers generate the highest revenue among membership types.
+* Revenue distribution varies significantly across cities and states.
+* Customer demographics provide opportunities for targeted marketing strategies.
+
+---
+
+# 📁 Repository Structure
+
+```text
+IKEA-Sales-Operations-Analytics/
+│
+├── data
+│   ├── raw
+│   └── clean
+│
+├── excel
+│   └── IKEA_Data_Profiling.xlsx
+│
+├── Notebook
+│   └── IKEA_Data_Preparation_EDA.ipynb
+│
+├── sql
+│   ├── create_tables.sql
+│   ├── import_data.sql
+│   ├── data_validation.sql
+│   └── business_queries.sql
+│
+├── powerbi
+│   └── IKEA_India_Analytics.pbix
+│
+├── images
+│   ├── overview-dashboard.png
+│   ├── operations-dashboard.png
+│   ├── customer-dashboard.png
+│   ├── powerbi-data-model.png
+│   ├── postgresql-erd.png
+│   ├── python-revenue-by-category.png
+│   ├── python-return-analysis-heatmap.png
+│   ├── customer-rfm-segmentation-query.png
+│   ├── customer-rfm-segmentation-output.png
+│   ├── monthly-sales-growth-query.png
+│   └── monthly-sales-growth-output.png
+│
+├── Assets
+│   ├── banner.png
+│   └── pipeline.png
+│
+└── README.md
+```
+
+---
+
+# 🖼️ Image Preview
+
+<img src="https://github.com/Chanchadiyakaushal201/minimalist-skincare-sql-analytics/blob/25b819052e87d14b3f01e4cea9142dbf65c99883/Images/Database_Schema.png" alt="Image Description" width="600">
+
+---
+
+## Project Pipeline
+
+<img src="https://github.com/Chanchadiyakaushal201/minimalist-skincare-sql-analytics/blob/25b819052e87d14b3f01e4cea9142dbf65c99883/Images/Database_Schema.png" alt="Image Description" width="600">
+
+---
+
+## Executive Overview
+
+<img src="https://github.com/Chanchadiyakaushal201/minimalist-skincare-sql-analytics/blob/25b819052e87d14b3f01e4cea9142dbf65c99883/Images/Database_Schema.png" alt="Image Description" width="600">
+
+---
+
+## Operations & Risk
+
+<img src="https://github.com/Chanchadiyakaushal201/minimalist-skincare-sql-analytics/blob/25b819052e87d14b3f01e4cea9142dbf65c99883/Images/Database_Schema.png" alt="Image Description" width="600">
+
+---
+
+## Customer Analytics
+
+<img src="https://github.com/Chanchadiyakaushal201/minimalist-skincare-sql-analytics/blob/25b819052e87d14b3f01e4cea9142dbf65c99883/Images/Database_Schema.png" alt="Image Description" width="600">
+
+---
+
+## Power BI Data Model
+
+<img src="https://github.com/Chanchadiyakaushal201/minimalist-skincare-sql-analytics/blob/25b819052e87d14b3f01e4cea9142dbf65c99883/Images/Database_Schema.png" alt="Image Description" width="600">
+
+---
+
+## Python EDA – Revenue by Product Category
+
+<img src="https://github.com/Chanchadiyakaushal201/minimalist-skincare-sql-analytics/blob/25b819052e87d14b3f01e4cea9142dbf65c99883/Images/Database_Schema.png" alt="Image Description" width="600">
+
+---
+
+## Python EDA – Return Analysis Heatmap
+
+<img src="https://github.com/Chanchadiyakaushal201/minimalist-skincare-sql-analytics/blob/25b819052e87d14b3f01e4cea9142dbf65c99883/Images/Database_Schema.png" alt="Image Description" width="600">
+
+---
+
+## SQL – Customer RFM Segmentation (query + output)
+
+<img src="https://github.com/Chanchadiyakaushal201/minimalist-skincare-sql-analytics/blob/25b819052e87d14b3f01e4cea9142dbf65c99883/Images/Database_Schema.png" alt="Image Description" width="600">
+
+<img src="https://github.com/Chanchadiyakaushal201/minimalist-skincare-sql-analytics/blob/25b819052e87d14b3f01e4cea9142dbf65c99883/Images/Database_Schema.png" alt="Image Description" width="600">
+
+---
+
+## SQL – Monthly Sales Growth Analysis (query + output)
+
+<img src="https://github.com/Chanchadiyakaushal201/minimalist-skincare-sql-analytics/blob/25b819052e87d14b3f01e4cea9142dbf65c99883/Images/Database_Schema.png" alt="Image Description" width="600">
+
+<img src="https://github.com/Chanchadiyakaushal201/minimalist-skincare-sql-analytics/blob/25b819052e87d14b3f01e4cea9142dbf65c99883/Images/Database_Schema.png" alt="Image Description" width="600">
+
+---
+
+# 💡 Skills Demonstrated
+
+* Data Cleaning
+* Data Validation
+* Data Modeling
+* SQL Query Writing
+* Business Analysis
+* Data Visualization
+* Dashboard Design
+* KPI Development
+* DAX
+* Power Query
+* RFM Customer Segmentation
+* Time Intelligence
+* Interactive Reporting
+* Storytelling with Data
+
+---
+
+# 🚀 Future Enhancements
+
+* Forecasting Sales using Time Series
+* Customer Lifetime Value (CLV)
+* Product Recommendation Analysis
+* Inventory Demand Forecasting
+* What-if Parameter Analysis
+* AI-powered Insights
+
+---
+
+# 👨‍💻 Author
+
+**Kaushal Vyas**
+
+Aspiring Data Analyst passionate about transforming raw data into actionable business insights through analytics, visualization, and storytelling.
+
+---
+
+# ⭐ If you found this project helpful
+
+Please consider giving this repository a **Star ⭐** and feel free to share your feedback or suggestions.
