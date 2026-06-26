@@ -18,6 +18,18 @@ The dashboard enables stakeholders to monitor key performance indicators, identi
 
 ---
 
+## 🚀 Project Highlights
+
+- 📊 3 Interactive Power BI Dashboard Pages
+- 🐍 Data Cleaning & EDA using Python
+- 🗄️ PostgreSQL Database with 15+ Business Queries
+- 📈 40+ DAX Measures with Time Intelligence
+- 👥 RFM Customer Segmentation
+- 🚚 Supply Chain & Inventory Risk Analysis
+- 🎨 IKEA-inspired Dashboard Design
+
+---
+
 # 🎯 Business Objective
 
 The primary objective of this project is to help business managers answer questions such as:
@@ -33,6 +45,24 @@ The primary objective of this project is to help business managers answer questi
 
 ---
 
+## 💼 Business Value
+
+This dashboard helps management:
+
+* Monitor sales performance
+
+* Identify operational bottlenecks
+
+* Reduce return losses
+
+* Improve inventory planning
+
+* Understand customer behaviour
+
+* Support strategic business decisions
+
+---
+
 # 🛠️ Tools & Technologies
 
 | Tool                               | Purpose                                    |
@@ -42,7 +72,31 @@ The primary objective of this project is to help business managers answer questi
 | PostgreSQL                         | Data Storage & Business SQL Queries        |
 | Power BI Desktop                   | Data Modeling, DAX & Dashboard Development |
 | DAX                                | KPI & Business Calculations                |
-| Git & GitHub                       | Version Control & Portfolio                |
+| GitHub                             | Portfolio                                  |
+
+---
+
+# 📂 Dataset Information
+
+The project uses five interconnected retail datasets representing IKEA India's sales and operations.
+
+| Dataset | Description |
+|----------|-------------|
+| Customers | Customer demographics, membership type, city, state and age group |
+| Orders | Sales transactions, quantities, payment methods and order status |
+| Products | Product catalog, categories, suppliers, cost, MRP and inventory |
+| Deliveries | Dispatch dates, delivery dates, carrier information and delivery status |
+| Returns | Returned orders, refund amount and return reasons |
+
+### Dataset Summary
+
+| Dataset | Records |
+|---------|--------:|
+| Customers | 500 |
+| Orders | 5,000 |
+| Products | 100 |
+| Deliveries | 5,000 |
+| Returns | 400 |
 
 ---
 
@@ -300,7 +354,7 @@ IKEA-Sales-Operations-Analytics/
 ├── excel
 │   └── IKEA_Data_Profiling.xlsx
 │
-├── Notebook
+├── notebook
 │   └── IKEA_Data_Preparation_EDA.ipynb
 │
 ├── sql
@@ -325,7 +379,7 @@ IKEA-Sales-Operations-Analytics/
 │   ├── monthly-sales-growth-query.png
 │   └── monthly-sales-growth-output.png
 │
-├── Assets
+├── assets
 │   ├── banner.png
 │   └── pipeline.png
 │
@@ -334,7 +388,7 @@ IKEA-Sales-Operations-Analytics/
 
 ---
 
-# 🖼️ Image Preview
+# 🖼️ Dashboard & Analysis Preview
 
 <img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Assets/banner.png" alt="Image Description" width="600">
 
@@ -342,59 +396,59 @@ IKEA-Sales-Operations-Analytics/
 
 ## Project Pipeline
 
-<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Assets/pipeline.png" alt="Image Description" width="600">
+<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Assets/pipeline.png" alt="Image Description" width="900">
 
 ---
 
 ## Executive Overview
 
-<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Images/overview-dashboard.png" alt="Image Description" width="600">
+<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Images/overview-dashboard.png" alt="Image Description" width="900">
 
 ---
 
 ## Operations & Risk
 
-<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Images/operations-dashboard.png" alt="Image Description" width="600">
+<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Images/operations-dashboard.png" alt="Image Description" width="900">
 
 ---
 
 ## Customer Analytics
 
-<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Images/customer-dashboard.png" alt="Image Description" width="600">
+<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Images/customer-dashboard.png" alt="Image Description" width="900">
 
 ---
 
 ## Power BI Data Model
 
-<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Images/powerbi-data-model.png" alt="Image Description" width="600">
+<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Images/powerbi-data-model.png" alt="Image Description" width="900">
 
 ---
 
 ## Python EDA – Revenue by Product Category
 
-<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Images/python-revenue-by-category.png" alt="Image Description" width="600">
+<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Images/python-revenue-by-category.png" alt="Image Description" width="900">
 
 ---
 
 ## Python EDA – Return Analysis Heatmap
 
-<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Images/python-return-analysis-heatmap.png" alt="Image Description" width="600">
+<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Images/python-return-analysis-heatmap.png" alt="Image Description" width="900">
 
 ---
 
 ## SQL – Customer RFM Segmentation (query + output)
 
-<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Images/customer-rfm-segmentation-query.png" alt="Image Description" width="600">
+<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Images/customer-rfm-segmentation-query.png" alt="Image Description" width="900">
 
-<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Images/customer-rfm-segmentation-output.png" alt="Image Description" width="600">
+<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Images/customer-rfm-segmentation-output.png" alt="Image Description" width="900">
 
 ---
 
 ## SQL – Monthly Sales Growth Analysis (query + output)
 
-<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Images/monthly-sales-growth-query.png" width="600">
+<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Images/monthly-sales-growth-query.png" width="900">
 
-<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Images/monthly-sales-growth-output.png" alt="Image Description" width="600">
+<img src="https://github.com/Chanchadiyakaushal201/ikea-sales-operations-analytics/blob/dac46ab4069a2797bdf7751826e5fbf64d47c0ab/Images/monthly-sales-growth-output.png" alt="Image Description" width="900">
 
 ---
 
@@ -430,7 +484,7 @@ IKEA-Sales-Operations-Analytics/
 
 # 👨‍💻 Author
 
-**Kaushal**
+**Kaushal Chanchadiya**
 
 Aspiring Data Analyst passionate about transforming raw data into actionable business insights through analytics, visualization, and storytelling.
 
