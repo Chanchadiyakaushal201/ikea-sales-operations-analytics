@@ -1,0 +1,101 @@
+Product_ID,Product_Name,Category,Sub_Category,MRP,Cost,Supplier,Stock_On_Hand
+PROD001,BRIMNES Mattresses,Bedroom,Mattresses,24479,18099.54,Supplier East,167
+PROD002,EKET Cushions,Decor,Cushions,8857,4225.91,Supplier Local,366
+PROD003,INGOLF Kids Beds,Kids Furniture,Kids Beds,15090,10574.73,Supplier South,56
+PROD004,EKET Dining Chairs,Dining,Dining Chairs,26967,16289.09,,99
+PROD005,LINNMON TV Units,Living Room,TV Units,30634,18894.63,Supplier South,58
+PROD006,KALLAX Rugs,Decor,Rugs,10160,4942.19,Supplier South,76
+PROD007,billy dining chairs,Dining,Dining Chairs,25394,16655.56,Supplier Central,310
+PROD008,BRIMNES Office Desks,Office Furniture,Office Desks,2427,1818.18,Supplier Local,237
+PROD009,ALEX Cookware,Kitchen,Cookware,22727,11062.56,Supplier North,96
+PROD010,MALM Kids Chairs,Kids Furniture,Kids Chairs,48475,27558.02,Supplier East,-8
+PROD011,HEMNES Floor Lamps,Lighting,Floor Lamps,24195,12446.27,Supplier West,153
+PROD012,RASKOG Rugs,Decor,Rugs,3269,2073.3,Supplier South,341
+PROD013,MICKE Office Chairs,Office Furniture,Office Chairs,27999,20014.63,Supplier North,54
+PROD014,FRIHETEN Office Chairs,Office Furniture,Office Chairs,9992,5753.1,Supplier South,332
+PROD015,NORDLI Outdoor Chairs,Outdoor,Outdoor Chairs,26066,17844.12,Supplier East,288
+PROD016,VIMLE Cushions,Decor,Cushions,38069,22868.73,Supplier West,1200
+PROD017,SKADIS TV Units,Living Room,TV Units,40131,20695.8,Supplier North,251
+PROD018,HEMNES Outdoor Tables,Outdoor,Outdoor Tables,39271,29448.61,Supplier North,136
+PROD019,KALLAX Dining Chairs,Dining,Dining Chairs,35974,24997.81,,304
+PROD020,PAX Table Lamps,Lighting,Table Lamps,12383,6226.55,Supplier West,387
+PROD021,NORDLI Boxes,Storage,Boxes,2847,1881.97,Supplier Central,298
+PROD022,MICKE Utensils,Kitchen,Utensils,13335,9347.96,Supplier Central,168
+PROD023,RANARP Kitchen Storage,Kitchen,Kitchen Storage,3486,1663.09,Supplier Central,122
+PROD024,RASKOG Coffee Tables,Living Room,Coffee Tables,32324,14552.43,Supplier South,76
+PROD025,INGOLF Boxes,Storage,Boxes,12629,9164.03,Supplier North,21
+PROD026,POANG Utensils,Kitchen,Utensils,47181,34214.12,Supplier Central,196
+PROD027,VIMLE Wardrobes,Bedroom,Wardrobes,47171,34556.39,Supplier Central,61
+PROD028,Hemnes Cabinets,Storage,Cabinets,22141,10869.8,Supplier Local,233
+PROD029,LINNMON Wall Art,Decor,Wall Art,21792,10945.27,Supplier Local,324
+PROD030,HEMNES Shelving Units,Storage,Shelving Units,44615,27959.55,Supplier East,167
+PROD031,PAX Office Desks,Office Furniture,Office Desks,12645,8455.07,Supplier East,300
+PROD032,RASKOG Sofas,Living Room,Sofas,40477,22078.79,Supplier South,337
+PROD033,BILLY Kids Beds,Kids Furniture,Kids Beds,33516,16496.34,Supplier South,187
+PROD034,BILLY Shelving Units,Storage,Shelving Units,42692,30550.23,Supplier Local,353
+PROD035,RANARP Cabinets,Storage,Cabinets,1745,924.09,Supplier Local,44
+PROD036,KALLAX Cabinets,Storage,Cabinets,8079,5381.62,,234
+PROD037,VIMLE Floor Lamps,Lighting,Floor Lamps,28132,16820.81,Supplier West,289
+PROD038,PAX Floor Lamps,Lighting,Floor Lamps,32422,22261.56,Supplier Local,398
+PROD039,KALLAX Dining Tables,Dining,Dining Tables,30574,14434.38,Supplier West,20
+PROD040,HEMNES Cabinets,Storage,Cabinets,7862,3712.91,Supplier East,92
+PROD041,RASKOG Mattresses,Bedroom,Mattresses,7100,3914.83,Supplier East,370
+PROD042,TROFAST TV Units,Living Room,TV Units,43835,21895.55,Supplier South,37
+PROD043,TROFAST Wardrobes,Bedroom,Wardrobes,14469,10740.62,Supplier Local,293
+PROD044,RANARP Outdoor Tables,Outdoor,Outdoor Tables,44291,23671.63,Supplier North,35
+PROD045,LACK Ceiling Lights,Lighting,Ceiling Lights,37021,25987.13,Supplier North,-15
+PROD046,RASKOG TV Units,Living Room,TV Units,6741,3629.12,Supplier East,112
+PROD047,EKET Beds,Bedroom,Beds,14561,7298.7,Supplier North,252
+PROD048,SKADIS Wardrobes,Bedroom,Wardrobes,27047,15992.44,Supplier North,338
+PROD049,VIMLE Outdoor Tables,Outdoor,Outdoor Tables,13115,7361.53,Supplier West,105
+PROD050,SKADIS Rugs,Decor,Rugs,18254,10622.41,Supplier South,147
+PROD051,POANG Kids Beds,Kids Furniture,Kids Beds,10903,7366.84,Supplier North,352
+PROD052,PAX Boxes,Storage,Boxes,28130,20850.28,Supplier South,293
+PROD053,LINNMON TV Units,Living Room,TV Units,35246,20287.23,Supplier Local,253
+PROD054, VIMLE Kids Beds ,Kids Furniture,Kids Beds,32211,17382.85,Supplier Local,27
+PROD055,RASKOG Planters,Outdoor,Planters,34869,24064.32,Supplier South,71
+PROD056,BRIMNES Rugs,Decor,Rugs,11954,8865.68,Supplier South,31
+PROD057,LACK Floor Lamps,Lighting,Floor Lamps,45768,26573.72,Supplier Central,142
+PROD058,LINNMON Boxes,Storage,Boxes,5390,2566.22,Supplier East,292
+PROD059,MALM Cabinets,Storage,Cabinets,35057,20594.13,Supplier Local,329
+PROD060,LACK Toy Storage,Kids Furniture,Toy Storage,28497,13785.58,Supplier South,300
+PROD061,PAX Toy Storage,Kids Furniture,Toy Storage,7565,5503.37,Supplier North,156
+PROD062,MICKE Outdoor Tables,Outdoor,Outdoor Tables,27927,14780.11,,321
+PROD063,LACK Rugs,Decor,Rugs,12284,6542.76,Supplier Central,321
+PROD064,INGOLF Floor Lamps,Lighting,Floor Lamps,26937,19310.39,Supplier Local,131
+PROD065,NORDLI Coffee Tables,Living Room,Coffee Tables,32142,23343.14,Supplier North,182
+PROD066,POANG Office Chairs,Office Furniture,Office Chairs,19371,13614.98,Supplier South,78
+PROD067,INGOLF Bookcases,Office Furniture,Bookcases,30038,20492.2,Supplier West,1500
+PROD068,ALEX Ceiling Lights,Lighting,Ceiling Lights,43306,20647.7,Supplier South,218
+PROD069,FRIHETEN Wall Art,Decor,Wall Art,25503,17757.87,Supplier South,43
+PROD070,FRIHETEN Bookcases,Office Furniture,Bookcases,34212,19535.58,Supplier Central,24
+PROD071,RANARP Cookware,Kitchen,Cookware,14153,9922.57,Supplier North,243
+PROD072,NORDLI TV Units,Living Room,TV Units,47177,24047.67,Supplier East,268
+PROD073,RANARP Ceiling Lights,Lighting,Ceiling Lights,9117,5965.73,Supplier West,-5
+PROD074,MICKE Kids Chairs,Kids Furniture,Kids Chairs,12637,9328.08,Supplier Central,292
+PROD075,SKADIS Cabinets,Storage,Cabinets,11715,8215.68,Supplier Local,362
+PROD076,HEMNES Wardrobes,Bedroom,Wardrobes,2797,1583.02,Supplier Central,119
+PROD077,SKADIS Serveware,Dining,Serveware,15751,10290.26,Supplier Local,219
+PROD078,LACK Outdoor Chairs,Outdoor,Outdoor Chairs,45707,20690.16,Supplier Local,98
+PROD079,EKET Kids Beds,Kids Furniture,Kids Beds,15663,8234.31,Supplier Local,373
+PROD080,ALEX Office Chairs,Office Furniture,Office Chairs,25671,18110.27,Supplier West,121
+PROD081,RASKOG Cushions,Decor,Cushions,45379,27508.36,Supplier East,309
+PROD082,NORDLI Beds,Bedroom,Beds,34521,25884.84,Supplier Central,341
+PROD083,POANG Toy Storage,Kids Furniture,Toy Storage,19524,10534.03,Supplier East,42
+PROD084,SKADIS Cabinets,Storage,Cabinets,42981,23533.86,Supplier West,345
+PROD085,RANARP Office Desks,Office Furniture,Office Desks,10824,6550.56,,317
+PROD086,MALM Ceiling Lights,Lighting,Ceiling Lights,21943,14355.7,Supplier Local,264
+PROD087,KALLAX Office Chairs,Office Furniture,Office Chairs,28430,16244.32,Supplier Central,372
+PROD088,RANARP Kids Beds,Kids Furniture,Kids Beds,23488,15689.16,Supplier Local,283
+PROD089,HEMNES Wall Art,Decor,Wall Art,24493,14749.55,Supplier Local,295
+PROD090,SKADIS Kitchen Storage,Kitchen,Kitchen Storage,7395,4372.18,Supplier Local,296
+PROD091,RANARP Utensils,Kitchen,Utensils,22995,14862.37,Supplier West,124
+PROD092,PAX Office Chairs,Office Furniture,Office Chairs,22712,12752.9,Supplier West,247
+PROD093,PAX Wardrobes,Bedroom,Wardrobes,4516,3205.99,Supplier Central,327
+PROD094,VIMLE Wardrobes,Bedroom,Wardrobes,13748,8250.77,Supplier Central,162
+PROD095,BRIMNES Floor Lamps,Lighting,Floor Lamps,10880,5344.36,Supplier West,219
+PROD096,HEMNES Kids Chairs,Kids Furniture,Kids Chairs,10385,5658.94,Supplier North,259
+PROD097,KALLAX Boxes,Storage,Boxes,12587,6847.63,Supplier North,241
+PROD098,HEMNES Office Desks,Office Furniture,Office Desks,12048,7504.5,Supplier East,400
+PROD099,TROFAST Beds,Bedroom,Beds,41269,23940.7,Supplier East,229
+PROD100,BRIMNES Cushions,Decor,Cushions,1304,601.56,Supplier Local,201

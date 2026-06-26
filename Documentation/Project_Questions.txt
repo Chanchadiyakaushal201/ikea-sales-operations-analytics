@@ -1,0 +1,88 @@
+# IKEA India Sales & Operations Analytics
+
+## SQL Business Questions
+
+### Basic Analysis
+
+1. What are the overall sales KPIs?
+
+2. Which product categories generate the highest revenue?
+
+3. Which cities generate the highest revenue?
+
+4. Which membership type generates the highest revenue?
+
+5. Which Age Group Generates the Highest Revenue?
+
+---
+
+### Intermediate Analysis
+
+6. Which products generate the highest revenue?
+
+7. Which customers generate the highest revenue?
+
+8. What is the average order value by city?
+
+9. What is the return rate by category?
+
+10. Which return reasons occur most frequently?
+
+---
+
+### Advanced Analysis
+
+11. What is the monthly revenue trend?
+
+12. Which months experienced the highest sales growth?
+
+13. What is the Running Revenue Over Time?
+
+14. How can customers be segmented based on revenue contribution?
+
+15. What is the RFM Analysis of customers?
+
+---
+
+# IKEA India Sales & Operations Analytics
+
+## Python EDA Questions
+
+### Customer Analysis
+
+1. Which membership type contributes the highest revenue?
+
+2. Which age groups spend the most?
+
+3. Which cities contribute the highest sales?
+
+---
+
+### Product Analysis
+
+4. Which product categories generate the highest revenue?
+
+5. Which products have the highest return rates?
+
+6. Which suppliers contribute the highest revenue?
+
+---
+
+### Operations Analysis
+
+7. Which payment methods are most commonly used?
+
+8. Which categories face the highest inventory risk?
+
+9. How do delivery delays impact return rates?
+
+---
+
+### Business Insights
+
+10. Which factors appear to be related to higher customer returns?
+
+
+
+
+ 
